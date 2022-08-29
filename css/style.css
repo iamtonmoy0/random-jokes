@@ -1,0 +1,31 @@
+body {
+    background-color: aliceblue;
+    text-transform: capitalize;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.container {
+    background-color: bisque;
+    height: 200px;
+    width: 600px;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    border-radius: 3%;
+    color: black;
+}
+
+.btn {
+    background-color: blueviolet;
+    height: 50px;
+    width: auto;
+    margin-top: 80px;
+    border: 0;
+    border-radius: 5%;
+    font-size: 20px;
+    text-transform: capitalize;
+}
